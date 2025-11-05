@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809080053823",
+    "project_id": "cep-facil-4cad2",
+    "storage_bucket": "cep-facil-4cad2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809080053823:android:80e8d830708b2c0d27188a",
+        "android_client_info": {
+          "package_name": "com.example.cep_facil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1yHXiF3Qr6UaK99xFPoc0okC7OANbm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

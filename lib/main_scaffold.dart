@@ -1,5 +1,3 @@
-// lib/main_scaffold.dart
-
 import 'package:flutter/material.dart';
 import 'screen/historico_screen.dart';
 import 'screen/busca_screen.dart';

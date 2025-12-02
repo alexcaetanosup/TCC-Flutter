@@ -15,7 +15,7 @@ class ConsultaCepScreen extends StatefulWidget {
 class _ConsultaCepScreenState extends State<ConsultaCepScreen> {
   final TextEditingController _cepController = TextEditingController();
   final CepService _cepService = CepService();
-  // CORREÇÃO 2: Nome da classe de serviço do Firebase corrigido
+  // Nome da classe de serviço do Firebase corrigido
   final FirebaseService _firebaseService = FirebaseService();
   EnderecoModel? _endereco;
   bool _isLoading = false;
